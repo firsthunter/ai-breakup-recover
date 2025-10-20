@@ -285,11 +285,6 @@ If you're experiencing severe emotional distress, please seek help from a qualif
 
 ---
 
-## 🙏 Acknowledgments
-
-- Built with **Google Gemini 2.0 Flash API**
-- Powered by **Next.js** and **React**
-- Styled with **Tailwind CSS**
 - Inspired by the need for accessible emotional support technology
 
 ---
